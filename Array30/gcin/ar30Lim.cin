@@ -1,20 +1,5 @@
-#####表格來源#####
-# 行列輸入法 30 鍵版鍵碼表 array30 for gcin。內容兼容於 v2026-1.11 。
-#   最後修改日期：2026.10.18
-#   limeroshenko（愛羅李）
-# https://github.com/Limeroshenko/ArrayPersonalized
-
-#行列輸入法官方版本請見：https://github.com/gontera/array30/
-
-#####魔改的部份#####
-#二級簡碼「no」加了「の」與「№」
-#修正原表格的兩個錯誤【礴】與【彞】
-#補完hg1與w5符號
-#w8②修改成了1️⃣~0️⃣
-#筆畫字根
-#五碼式符號
-#微調詞庫
-
+# 應對官方版本號： v2026-1.11 。
+# 最後修改日期：2026.10.18
 
 %gen_inp
 %ename ar30-phrase
