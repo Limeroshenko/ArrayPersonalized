@@ -1,5 +1,5 @@
 # 應對官方版本號： v2026-1.11 。
-# 最後修改日期：2026.10.18
+# 最後修改日期：2026.10.24
 
 %gen_inp
 %ename ar30-phrase
@@ -123363,7 +123363,6 @@ a;q.'	酷吏
 a;qm'	舌頭
 a;r,'	酷熱
 a;re'	吞聲
-a;rq'	戒嚴地區
 a;tg'	耍嘴皮子
 a;ub'	吞服
 a;v'	一味
@@ -133740,7 +133739,6 @@ eqai'	北平
 eqak'	北平人
 eqak'	此次
 eqaq'	北屯區
-eqay'	北平市
 eqay'	北平話
 eqb'	鬥毆
 eqcc'	北涼
@@ -134458,7 +134456,6 @@ f;yd'	古訓
 f;yh'	古詩
 f;yn'	苦戀
 f;yo'	古文學
-f;yq'	古亭區
 f;yr'	苦主
 f;yr'	落塵
 f;yx'	苦衷
@@ -143197,7 +143194,6 @@ kbp.'	雙數
 kbpb'	冷暖
 kbpj'	假冒
 kbpn'	侵略性
-kbpq'	雙園區
 kbpr'	健旺
 kbpr'	雙星
 kbpv'	假果
@@ -169911,13 +169907,11 @@ x;cc'	台灣省
 x;cg'	台灣
 x;ck'	台灣人
 x;co'	台汽
-x;cq'	台灣區
 x;cv'	結業
 x;d'	風中
 x;ea'	台上
 x;ek'	台北人
 x;eq'	台北
-x;eq'	台北區
 x;ey'	台北市
 x;ff'	台南
 x;ff'	結草
@@ -174598,7 +174592,6 @@ yqcs'	鹿港
 yqcs'	麟洛鄉
 yqdd'	龍崎
 yqdf'	詞牌
-yqdq'	龍山區
 yqdq'	龍崎區
 yqdr'	龍山寺
 yqe'	龍門
@@ -175935,7 +175928,6 @@ yzry'	詞不達意
 yzt'	立雪
 yztb'	毫不費力
 yzty'	言不盡意
-yzuq'	高雄縣長
 yzva'	毫不相干
 yzxh'	誤以為
 yzy.'	誤謬
