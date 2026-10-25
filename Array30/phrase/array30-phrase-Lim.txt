@@ -51228,6 +51228,7 @@ x;cc	台灣省
 x;cg	台灣
 x;ck	台灣人
 x;co	台汽
+x;cq	台灣區
 x;cv	結業
 x;d	風中
 x;ea	台上
